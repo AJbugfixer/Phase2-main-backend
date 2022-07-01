@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://websterpark.com/wp-content/uploads/2018/03/AdobeStock_52525779_peace_of_mind.jpeg');
+  height: 825px;
+  background-size:cover;
+  background-position: center; 
+  background-repeat: repeat-y; 
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
